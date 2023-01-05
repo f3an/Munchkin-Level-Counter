@@ -1,7 +1,7 @@
 {
   "name": "munchkin-level-counter-client",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
@@ -54,5 +54,10 @@
     "@typescript-eslint/parser": "^5.47.0",
     "eslint": "^8.30.0",
     "eslint-plugin-react": "^7.31.11"
-  }
+  },
+  "description": "client part of app",
+  "main": "index.tsx",
+  "repository": "https://github.com/f3an/Munchkin-Level-Counter",
+  "author": "Ihor Cherniavskyi",
+  "license": "MIT"
 }
